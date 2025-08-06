@@ -24,3 +24,57 @@ Each button plays a unique sound to help players remember the sequence. A game-o
 
 💖 Made with Love 💖
 This game was built with passion and creativity, bringing the nostalgic Simon Game to life with smooth animations, sound effects, and an engaging UI. Whether you're a casual gamer or a memory master, enjoy the challenge and have fun!
+
+
+# Simon Game – Web-Based Memory Challenge 🎮
+
+A fun and interactive web-based memory game that challenges users to follow and replicate an ever-growing sequence of colors. Inspired by the classic "Simon Says" game, this project tests users' attention and memory retention.
+
+## 🧠 Goal of the Project
+The primary goal was to create a browser game using HTML, CSS, and JavaScript that demonstrates DOM manipulation, event handling, and responsive design. The game helps enhance memory and cognitive skills while showcasing core frontend development concepts.
+
+---
+
+## 🔧 Development Process
+
+- Designed the basic UI layout using **HTML5** and styled it with **CSS3**, ensuring a clean and minimal interface.
+- Used **JavaScript** to implement the game logic:
+  - Random sequence generation
+  - User click tracking
+  - Real-time input comparison
+  - Win/lose detection and level progression
+- Added sound and animation for feedback using JavaScript event listeners.
+- Implemented reset functionality and error handling for wrong inputs.
+- Tested across multiple screen sizes to ensure responsiveness.
+
+---
+
+## ✨ Key Features
+
+- 🎯 Random sequence generation for each level
+- 🔊 Audio and visual feedback for every user interaction
+- 📈 Increasing difficulty as levels progress
+- ❌ Immediate feedback for incorrect moves with restart option
+- 📱 Mobile-responsive design
+
+---
+
+## 🛠️ Tech Stack / Skills Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- **DOM Manipulation**
+- **Event Handling**
+- **UI/UX Design**
+- **Responsive Design**
+- **Git & GitHub**
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Nale-kunal/Simon-Game
+
